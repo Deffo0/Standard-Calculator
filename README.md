@@ -9,7 +9,7 @@ Calculator-API\src\main\java\com\example\Calculator_API on port 8080.
 ## Data Flow:
 <p>
 <img alt="logo" width="650px" src="Customer Touchpoint Map.jpg" />
-  </p>
+</p>
 ## User Guide:
 + User is allowed to calculate one operation at a time and press ‘=’ 
 to calculate it. If he/she adds two operations, the first operation will 
