@@ -1,0 +1,74 @@
+/* Application-wide Styles */
+
+* {
+  box-sizing: border-box;
+}
+header
+{
+  background-image: url("bernard-hermant.jpg");
+  color: #283052ec;
+  background-size: cover;
+  font-family:cursive;
+  text-align: center;
+  border-radius: 20px;
+  border-style: outset;
+  border-color: #333952ec;
+  border-width: 6px;
+}
+table
+{
+  position: absolute;
+  top: 160px;
+  left: 600px;
+  background-image: url("bernard-hermant.jpg");
+  background-size: cover;
+  background-color: #e6e3e0ec;
+  border-radius: 10px;
+  border-collapse: collapse;
+}
+th, td, tr
+{
+  border-style:none;
+}
+input[type="button"]
+{
+  color: rgb(20, 20, 20);
+  font-family:cursive;
+  font-size: 20px;
+  border: 2px solid rgb(97, 94, 94) ;
+  width: 70px;
+  height: 60px;
+  border-radius: 10px;
+}
+.white{
+  background-color: #ffffffec;
+}
+.gray{
+  background-color: #d2d7e6ec;
+}
+.blue{
+  background-color:#8e9ee7ec;
+}
+input[type="button"]:hover
+{
+  background-color:#928e8dec;
+  color: rgba(32, 32, 32, 0.568);
+}
+input[type="button"]:active
+{
+  background-color:rgb(50, 54, 65);
+  color: #8e9ee7ec;
+}
+input[type="text"]
+{
+    background-color:rgb(50, 54, 65);
+    color: rgb(231, 223, 223) ;
+    text-align: right;
+    font-family:cursive;
+    font-size: 20px;
+    width:290px;
+    height: 60px;
+    border-radius: 10px;
+    border-width: medium;
+    border-style: inset;
+}
