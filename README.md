@@ -7,7 +7,7 @@ spring boot.
 Calculator-API\src\main\java\com\example\Calculator_API on port 8080.
 + Second, open the cmd and open angular project.
 ## Data Flow:
-<p>
+<p align="center">
 <img alt="logo" width="650px" src="Customer Touchpoint Map.jpg" />
 </p>
 ## User Guide:
